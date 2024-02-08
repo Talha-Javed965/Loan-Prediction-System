@@ -6,3 +6,4 @@ Selecting the validation method for the regression model
 ![Data - Types](https://github.com/Talha-Javed965/Loan-Prediction-System/assets/83302927/142800e3-3de6-4e1a-9543-e5f727a49ce4)
 ![![Heatmap](https://github.com/Talha-Javed965/Loan-Prediction-System/assets/83302927/2932bae8-70df-4108-9b15-10cc205a4202)
 Distribution plot   Box plot](https://github.com/Talha-Javed965/Loan-Prediction-System/assets/83302927/d4b53200-4c66-4a39-ae00-b0a688093652)
+![Heatmap](https://github.com/Talha-Javed965/Loan-Prediction-System/assets/83302927/7ce1d612-65e2-49b6-be5f-4418b341a258)
